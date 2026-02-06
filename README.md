@@ -1,5 +1,30 @@
+
 # 💫 About Me:
-I'm currently working on<br><br>👉 Full-stack web projects (Restaurant Website, Admin Panel, Dynamic Websites) using HTML, CSS, JavaScript, PHP & MySQL<br>👉 Learning to build real-world projects for clients<br><br>🤝 I'm looking to collaborate on<br><br>👉 Web development projects (Business websites, Admin panels, CRUD systems)<br>👉 Beginner-friendly open source projects<br><br><br>🆘 I'm looking for help with<br><br>👉 Backend logic & database optimization<br>👉 Project structure & best practices<br>👉 Hosting websites on localhost / live server<br><br>🌱 I'm currently learning<br><br>👉 PHP backend development<br>👉 MySQL database design<br>👉 Basics of MERN stack & APIs<br>Ask me about<br><br>👉 HTML, CSS, JavaScript<br>👉 PHP & MySQL projects<br>👉 How to run projects on localhost (XAMPP / VS Code)<br><br>⚡ Fun fact<br><br>👉 I learn best by building real projects instead of watching long tutorials 🚀<br>
+I'm currently working on<br><br>
+👉 Python-based projects including automation scripts, data processing & beginner-level machine learning projects<br>
+👉 Building real-world Python solutions for practical use<br><br>
+
+🤝 I'm looking to collaborate on<br><br>
+👉 Python projects (Automation, Data Analysis, APIs)<br>
+👉 Beginner-friendly open source projects<br><br>
+
+🆘 I'm looking for help with<br><br>
+👉 Advanced Python concepts<br>
+👉 Backend logic & database optimization using Python<br>
+👉 Writing clean, scalable, and efficient Python code<br><br>
+
+🌱 I'm currently learning<br><br>
+👉 Advanced Python programming<br>
+👉 Machine Learning & AI fundamentals<br>
+👉 Python libraries like NumPy, Pandas, Matplotlib, Scikit-learn<br><br>
+
+💬 Ask me about<br><br>
+👉 Python programming & logic building<br>
+👉 Automation scripts & data handling<br>
+👉 Beginner-friendly Python project ideas<br><br>
+
+⚡ Fun fact<br><br>
+👉 I learn best by building real projects instead of watching long tutorials 🚀
 
 
 ## 🌐 Socials:
