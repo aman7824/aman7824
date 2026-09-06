@@ -1,30 +1,56 @@
+# 💫 About Me
 
-# 💫 About Me:
-I'm currently working on<br><br>
-👉 Python-based projects including automation scripts, data processing & beginner-level machine learning projects<br>
-👉 Building real-world Python solutions for practical use<br><br>
+I'm a **Software Engineer** passionate about building practical, scalable, and user-focused software solutions.
 
-🤝 I'm looking to collaborate on<br><br>
-👉 Python projects (Automation, Data Analysis, APIs)<br>
-👉 Beginner-friendly open source projects<br><br>
+👉 Building real-world **software applications, web applications, backend systems, APIs & automation tools**  
+👉 Working with **Python, JavaScript, React, Django, Flask, PHP & Databases**  
+👉 Developing projects that solve practical problems through clean and efficient code  
+👉 Exploring **AI/ML, backend engineering, software architecture & deployment technologies**
 
-🆘 I'm looking for help with<br><br>
-👉 Advanced Python concepts<br>
-👉 Backend logic & database optimization using Python<br>
-👉 Writing clean, scalable, and efficient Python code<br><br>
+🤝 I'm looking to collaborate on
 
-🌱 I'm currently learning<br><br>
-👉 Advanced Python programming<br>
-👉 Machine Learning & AI fundamentals<br>
-👉 Python libraries like NumPy, Pandas, Matplotlib, Scikit-learn<br><br>
+👉 Software Engineering & Full-Stack projects  
+👉 Python-based applications and REST APIs  
+👉 Backend development & database-driven applications  
+👉 AI/ML and data-driven applications  
+👉 Beginner-friendly Open Source projects  
+👉 Real-world software development projects
 
-💬 Ask me about<br><br>
-👉 Python programming & logic building<br>
-👉 Automation scripts & data handling<br>
-👉 Beginner-friendly Python project ideas<br><br>
+🆘 I'm looking for help with
 
-⚡ Fun fact<br><br>
-👉 I learn best by building real projects instead of watching long tutorials 🚀
+👉 Advanced Software Engineering concepts  
+👉 Backend architecture & API development  
+👉 Database optimization and efficient data handling  
+👉 Clean, maintainable & scalable code  
+👉 System Design and Software Architecture  
+👉 Docker, Cloud & Application Deployment
+
+🌱 I'm currently learning
+
+👉 Advanced **Python Programming**  
+👉 **Full-Stack Software Engineering**  
+👉 Backend Development & REST APIs  
+👉 **Machine Learning & Artificial Intelligence**  
+👉 Database Design & Optimization  
+👉 **Docker, Git, GitHub & Deployment**  
+👉 Software Architecture & Clean Code Practices
+
+💬 Ask me about
+
+👉 Python & Software Engineering  
+👉 Backend & Web Application Development  
+👉 REST APIs & Database Integration  
+👉 Automation & Data Processing  
+👉 Machine Learning Fundamentals  
+👉 Building Real-World Software Projects
+
+⚡ Fun fact
+
+👉 I learn best by **building real projects, solving problems, and experimenting with new technologies** instead of just watching long tutorials. 🚀
+
+🎯 My Goal
+
+👉 To grow as a **Software Engineer** and build reliable, scalable, and intelligent software solutions that solve real-world problems.<br><br>
 
 
 ## 🌐 Socials:
